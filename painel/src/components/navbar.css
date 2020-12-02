@@ -1,0 +1,11 @@
+.navbar {
+    background-color: #333333;
+    height: 0.5in;
+    align-self: center;
+}
+
+.navbar a {
+    margin-top: 60px;
+    color: #ffffff;
+    font-weight: bold;
+}

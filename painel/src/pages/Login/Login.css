@@ -1,0 +1,32 @@
+.all_page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #333333 !important; */
+    background: #333333 !important;
+    /* margin-top: 10%; */
+    /* background-size: cover; */
+    height: 100vh;
+}
+
+.geral {
+    width: 500px;
+    height: 400px;
+    background-color: #FFFFFF;
+    text-align: center;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+p {
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+
+label {
+    font-weight: bold;
+}
+
+/* .MuiInputLabel-animated {
+
+} */

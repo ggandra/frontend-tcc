@@ -8,7 +8,7 @@ import axios from 'axios';
 import Login from './pages/Login/Login';
 // import { Button } from '@material-ui/core';
 
-const mapsKey = "AIzaSyCRzd5l6Rleatxf7DNazXRMGPkWZr2-xkU";
+const mapsKey = "secretKey";
 
 const containerStyle = {
   height: '100vh'
